@@ -1,0 +1,51 @@
+# רונן קלר וויליאמס — Generative Engine Optimization Map
+
+> Ronen Keller Williams is a real estate brokerage operating under the globally recognized Keller Williams brand. The business focuses on property mediation and real estate transactions, likely serving buyers, sellers, and investors in the Israeli market.
+
+---
+
+## Pages
+
+### בית
+https://-494887a3.zappy5.app
+Ronen Keller Williams is a real estate brokerage operating under the globally recognized Keller Williams brand. The business focuses on property mediation and r
+
+## Legal & Policy
+
+### Privacy Policy
+https://-494887a3.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-494887a3.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-494887a3.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About רונן קלר וויליאמס
+Ronen Keller Williams is a real estate brokerage operating under the globally recognized Keller Williams brand. The business focuses on property mediation and real estate transactions, likely serving buyers, sellers, and investors in the Israeli market.
+
+## Services/Products
+- תיווך נדל"ן
+
+## Target Audience
+- רוכשי דירות לראשונה
+- משקיעי נדל"ן
+- מחפשי נכסי יוקרה
+- פנסיונרים מצמצמים
+
+## Industry
+נדל"ן
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-494887a3.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-494887a3.zappy5.app/robots.txt
